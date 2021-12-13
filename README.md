@@ -33,7 +33,7 @@ sh prepare_environment.sh
 In order to deploy the example, simply run:
 
 ```bash
-sls deploy --stage local --region us-east-1
+sls deploy --stage local --region eu-central-1
 ```
 ## Usage
 
